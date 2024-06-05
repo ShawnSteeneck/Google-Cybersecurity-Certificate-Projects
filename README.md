@@ -6,6 +6,7 @@ This lab provided a step by step that taught me how to examine custom rules/sign
 I first examined the signature the file that the lab provided.
 Using the cat command I displayed the rule in the file.
 ![image](https://github.com/ShawnSteeneck/Google-Cybersecurity-Certificate-Projects/assets/136599539/386dee13-6fff-405c-b91c-dc788e501b30)
+
 This rule has three components. Which is an action, a header, and rule options. 
 An action in this case it was alert. Which will send an alert based on selected network traffic. 
 A header which consists of the protocol, source, and destination IP address. Also, the source and destination ports as well as the traffic direction. You can define a certain subnet as a variable to enable conditions to fit your organization’s needs. 
