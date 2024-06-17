@@ -1,0 +1,9 @@
+Performing a query using Splunk
+
+This lab from the Google Cybersecurity Professional Certificate has taught me core skills in using SIEM tools to identify possible security issues in this lab scenario. The goal was to identify any failed SSH logins for the root account. 
+
+The scenario in this lab is listed below as stated from the Google Cybersecurity Professional certificate. 
+I’m a security analyst working at the e-commerce store Buttercup Games. I've been tasked with identifying whether there are any possible security issues with the mail server. To do so, you must explore any failed SSH logins for the root account.  
+
+Using Splunk Cloud, I uploaded data for the SIEM to ingest and index. 
+
